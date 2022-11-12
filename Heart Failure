@@ -1,0 +1,2 @@
+#assign the dataset (.csv) file url to a variable 
+url = "https://raw.githubusercontent.com/lafirm/datasets/main/heart_failure_clinical_records_dataset.csv"
